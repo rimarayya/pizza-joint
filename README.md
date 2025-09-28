@@ -2,7 +2,6 @@
 
 A simple React-based pizza ordering system that allows users to browse and order pizzas online with an intuitive interface.
 
----
 
 ## 🚀 Features
 
@@ -10,7 +9,6 @@ A simple React-based pizza ordering system that allows users to browse and order
 - Customize your pizza with your choice of toppings
 - View a summary of your selected items
 
----
 
 ## Getting Started
 
@@ -59,16 +57,13 @@ Make sure you have the following installed:
    npm run build
    ```
 
----
 
 ## 📸 Screenshot
 
 ![Pizza Joint](./src/screenshots/overview.png)
 
----
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 
----
